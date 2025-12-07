@@ -87,7 +87,7 @@ Thus:
 **The UI *is* the epistemic horizon.**
 The UI defines the possible questions, answers, patterns, insights.
 
-In that sense, UX is the **ultimate governor**.
+In that sense, UX is the **ultimate [governor](https://ukb-dt.github.io/inv-05/)**.
 
 Even if intelligence goes to infinity, value is throttled by:
 
